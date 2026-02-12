@@ -14,5 +14,5 @@ This project is a remake of the Indotrading official website, developed using Re
 `cd indotrade`
 `npm install`
 `npm run dev`
-### Other Projects
-[https://drive.google.com/drive/folders/1h_T309ejkBtaon9yMfe98Ni7H25gWAgF?usp=sharing](url)
+[Other Projects](https://drive.google.com/drive/folders/1h_T309ejkBtaon9yMfe98Ni7H25gWAgF?usp=sharing).
+
