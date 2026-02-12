@@ -9,11 +9,11 @@
 - Footer with Logo and Hyperlinks
 - Fully Responsive Layout
 - Custom CSS Styling
-  
-`git clone <your-repo-url>
-cd indotrade
-npm install
-Run development server
-npm run dev
-`[
+
+### Installation
+`cd indotrade`
+`npm install`
+`npm run dev`
+
+[
 https://drive.google.com/drive/u/0/folders/1h_T309ejkBtaon9yMfe98Ni7H25gWAgF](url)
