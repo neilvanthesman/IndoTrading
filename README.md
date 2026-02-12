@@ -10,12 +10,10 @@
 - Fully Responsive Layout
 - Custom CSS Styling
   
-`# Clone the repository
-git clone <your-repo-url>
-# Navigate into the project folder
+`git clone <your-repo-url>
 cd indotrade
-# Install dependencies
 npm install
 Run development server
 npm run dev
-`
+`[
+https://drive.google.com/drive/u/0/folders/1h_T309ejkBtaon9yMfe98Ni7H25gWAgF](url)
