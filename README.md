@@ -1,5 +1,5 @@
 # Indotrading Official Website Remake (React & Vite)
-## This project is a remake of the Indotrading official website, developed using React and Vite as part of an internship assessment test.
+This project is a remake of the Indotrading official website, developed using React and Vite as part of an internship assessment test.
 ### Features
 - Navigation Bar
 - Search Bar
