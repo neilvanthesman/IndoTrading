@@ -1,4 +1,4 @@
-cd indotrade sebelum npm run dev
+cd indotrade before npm run dev
 
 
 PS C:\Users\neilv\Downloads\trade (1)\trade> cd indotrade
