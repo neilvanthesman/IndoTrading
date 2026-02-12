@@ -16,5 +16,10 @@ cd indotrade
 npm install
 npm run dev
 ```
+```
+git status
+git add
+git commit
+```
 [Other Projects](https://drive.google.com/drive/folders/1h_T309ejkBtaon9yMfe98Ni7H25gWAgF?usp=sharing).
 
