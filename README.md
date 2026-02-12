@@ -11,8 +11,10 @@ This project is a remake of the Indotrading official website, developed using Re
 - Custom CSS Styling
 
 ### Installation
-`cd indotrade`<br>
-</br>`npm install`<br>
-</br>`npm run dev`<br>
+```
+cd indotrade
+npm install
+npm run dev
+```
 [Other Projects](https://drive.google.com/drive/folders/1h_T309ejkBtaon9yMfe98Ni7H25gWAgF?usp=sharing).
 
